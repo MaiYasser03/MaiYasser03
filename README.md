@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h1>Hi, I'm Mai Yasser Ouf 👋</h1>
+      <h1>Hi, I'm Mai👋</h1>
       <h3>AI Engineer | LLM Systems &amp; Computer Vision</h3>
       <p>
         Welcome to my corner of GitHub! I build RAG pipelines (agentic chunking, knowledge graphs, multi-agent orchestration)
